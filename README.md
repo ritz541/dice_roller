@@ -1,6 +1,8 @@
 # dice_roller
 
-A new Flutter project.
+A Flutter project to roll dice when you don't have a real one.
+<img width="1080" height="2400" alt="flutter_01" src="https://github.com/user-attachments/assets/261e4281-b878-48de-be8a-f11f8623ed9c" />
+
 
 ## Getting Started
 
